@@ -37,18 +37,20 @@ This repo will cover the following topics:
 - Reduce
 - Zip
 
-7. Comprehensions
+7. Decorators
+
+8. Comprehensions
 - List Comprehension
 - Dictionary Comprehension
 
-8. if name == "__main__"
+9. if name == "__main__"
 
-9. Making code faster (and parallel processing)
+10. Making code faster (and parallel processing)
 - Threading (concurrently but not in parallel) (for io bound tasks)
 - Daemon threads
 - Multiprocessing (in parallel in different CPU cores) (for CPU bound tasks)
 - Running on GPU
 
-10. Compiling Python code
+11. Compiling Python code
 - py_compile
 - py to exe
